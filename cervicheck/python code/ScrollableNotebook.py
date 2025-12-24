@@ -1,3 +1,4 @@
+### IMPORTANT: NOT MY CODE, TAKEN FROM MUHAMMET EMIN TURGUT AND USED IN MY GUI
 # -*- coding: utf-8 -*-
 
 # Copyright (c) Muhammet Emin TURGUT 2020
@@ -134,3 +135,4 @@ class ScrollableNotebook(ttk.Frame):
     def enable_traversal(self):
         self.notebookContent.enable_traversal()
         self.notebookTab.enable_traversal()
+
